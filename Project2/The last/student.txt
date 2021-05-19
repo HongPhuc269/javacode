@@ -1,0 +1,8 @@
+1 - Hong Phuc - Năm thứ hai - 2.8 - Ha Noi - 0794036391
+2 - Thanh Lam - Năm thứ nhất - 2.7 - Ha Noi - 0734546762
+3 - Quynh Trang - Năm thứ ba - 2.7 - Bac Giang - 0849788354
+4 - Mai Anh - Cựu sinh viên - 2.6 - Ha Noi - 0863726327
+5 - Van Dat - Năm thứ tư - 2.9 - Bac Giang - 0387283728
+6 - Anh Tuan - Năm thứ hai - 2.9 - Nam Dinh - 0938297326
+7 - Dinh Dat - Năm thứ ba - 3.0 - Hoa Binh - 0817362376
+8 - Trinh Son - Năm thứ tư - 2.7 - Soc Son - 0358232387
